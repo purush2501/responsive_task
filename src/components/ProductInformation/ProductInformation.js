@@ -1,5 +1,5 @@
 import React from 'react';
-import { Accordion, AccordionSummary, AccordionDetails, Divider } from '@mui/material';
+import { Accordion, AccordionSummary, AccordionDetails} from '@mui/material';
 import AddOutlinedIcon from '@mui/icons-material/AddOutlined';
 import DescriptionOutlinedIcon from '@mui/icons-material/DescriptionOutlined';
 import LocalShippingOutlinedIcon from '@mui/icons-material/LocalShippingOutlined';
