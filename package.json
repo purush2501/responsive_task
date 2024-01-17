@@ -16,7 +16,7 @@
     "styled-components": "^6.1.8",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://purush2501.github.io/responsive_task/",
+  "homepage": "/responsive_task/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
