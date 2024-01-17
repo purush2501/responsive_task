@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/responsive_task/static/css/main.f855e6bc.css",
+    "main.js": "/responsive_task/static/js/main.cd141fa6.js",
+    "static/js/787.fdb723ee.chunk.js": "/responsive_task/static/js/787.fdb723ee.chunk.js",
+    "static/media/veirdo_logo_300x.svg": "/responsive_task/static/media/veirdo_logo_300x.f4a658a9b19e091efbd91eeb6b66c45b.svg",
+    "static/media/cowprint_front.png": "/responsive_task/static/media/cowprint_front.0e1a3970cb9e7a905c0c.png",
+    "static/media/cowprint_back.png": "/responsive_task/static/media/cowprint_back.75634921b290a3403784.png",
+    "static/media/cowprint_side.png": "/responsive_task/static/media/cowprint_side.43eb23bc12658dd63fe6.png",
+    "static/media/cowprint_close.png": "/responsive_task/static/media/cowprint_close.38174abfaf4cf880cd28.png",
+    "static/media/smile_side.png": "/responsive_task/static/media/smile_side.fb6c01c07807452f6661.png",
+    "index.html": "/responsive_task/index.html",
+    "main.f855e6bc.css.map": "/responsive_task/static/css/main.f855e6bc.css.map",
+    "main.cd141fa6.js.map": "/responsive_task/static/js/main.cd141fa6.js.map",
+    "787.fdb723ee.chunk.js.map": "/responsive_task/static/js/787.fdb723ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cd141fa6.js"
+  ]
+}
